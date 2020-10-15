@@ -1,0 +1,5 @@
+resolusi saya
+- fokus menjadi programmer front end developer
+-css
+-html
+-javascript
